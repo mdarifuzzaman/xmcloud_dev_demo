@@ -11,8 +11,7 @@
             {
                 "name": "contentRoot",
                 "path": "/sitecore/content/DemoSites",
-                "allowedPushOperations": "CreateUpdateAndDelete",
-                "scope": "ItemAndChildren"
+                "allowedPushOperations": "CreateUpdateAndDelete"
             },
             {
                 "name": "media",
