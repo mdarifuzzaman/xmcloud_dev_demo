@@ -78,5 +78,3 @@ packages/
 /src/rendering/src/temp/!.gitignore
 /src/rendering/src/temp/!GraphQLFragmentTypes.json
 /src/rendering/src/temp/!GraphQLIntrospectionResult.json
-src/rendering/sitecore/package/rendering.1685329596644.manifest.zip
-src/rendering/sitecore/package/*
