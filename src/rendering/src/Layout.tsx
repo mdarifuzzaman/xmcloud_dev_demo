@@ -32,7 +32,7 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
 
   return (
     <>
-      <Scripts />
+      {/* <Scripts /> Disabled cdp */}
       <Head>
         <title>{fields?.Title?.value?.toString() || 'Page'}</title>
         <link rel="icon" href={`${publicUrl}/favicon.ico`} />
