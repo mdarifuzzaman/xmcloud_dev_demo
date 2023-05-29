@@ -6,17 +6,20 @@
             {
                 "name": "templates",
                 "path": "/sitecore/templates/Project/DemoSites",
-                "allowedPushOperations": "CreateUpdateAndDelete"
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "ItemAndChildren"
             },
             {
                 "name": "contentRoot",
                 "path": "/sitecore/content/DemoSites",
-                "allowedPushOperations": "CreateUpdateAndDelete"
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "ItemAndChildren"
             },
             {
                 "name": "media",
                 "path": "/sitecore/media library/Project/DemoSites",
-                "allowedPushOperations": "CreateUpdateAndDelete"
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "scope": "ItemAndChildren"
             },
             {
                 "name": "rendering",
@@ -29,7 +32,7 @@
                 "path": "/sitecore/layout/Placeholder Settings/Project/DemoSites",
                 "allowedPushOperations": "CreateUpdateAndDelete",
                 "scope": "ItemAndChildren"
-            }
+            }            
         ]
     }
 }
