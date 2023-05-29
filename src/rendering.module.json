@@ -6,8 +6,7 @@
             {
                 "name": "templates",
                 "path": "/sitecore/templates/Project/DemoSites",
-                "allowedPushOperations": "CreateUpdateAndDelete",
-                "scope": "ItemAndChildren"
+                "allowedPushOperations": "CreateUpdateAndDelete"
             },
             {
                 "name": "contentRoot",

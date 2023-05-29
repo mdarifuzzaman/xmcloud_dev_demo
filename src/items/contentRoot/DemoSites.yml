@@ -31,6 +31,10 @@ SharedFields:
 - ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
   Hint: Templates
   Value: "{DC573098-5CAE-4749-942E-93272E2B1A61}"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Sitecore Client Site Managing|pd|+item:delete|+item:write|+item:rename|+item:create|pe|+item:delete|+item:write|+item:rename|+item:create|au|sitecore\JssImport|pd|+item:delete|+item:admin|+bucket:makebucket|+item:write|+bucket:unmake|+item:read|+item:rename|+item:create|pe|+item:delete|+item:admin|+bucket:makebucket|+item:write|+item:read|+bucket:unmake|+item:rename|+item:create|
 - ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
   Value: "{483DEE4E-B3A7-4AB0-A0FC-E3E3B65AF5D1}"
@@ -55,11 +59,11 @@ Languages:
         sitecore\arif.uzzaman@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7c5a9801-607d-42e5-9563-38abde4d3fa2"
+      Value: "5531bfc5-be21-43d9-9ea8-5b0930d6340c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\arif.uzzaman@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230529T024002Z
+      Value: 20230529T030054Z
